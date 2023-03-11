@@ -1,7 +1,7 @@
 {
-    "url": "https://xss.smarpo.com/test.yaml",
+    "url": "https://iamj0ker.github.io/xss/test.yaml",
     "urls": [{
-        "url": "https://xss.smarpo.com/test.yaml",
+        "url": "https://iamj0ker.github.io/xss/test.yaml",
         "name": "Foo"
     }]
 }
